@@ -6,6 +6,12 @@
 
 ---
 
+#### Academic Project (Post Graduate Diploma in Artificial Intelligence)
+
+- Artificial Intelligence Model For Classification Of Ovarian Cancer Using Ultrasonography Images
+
+---
+
 #### Python Projects
 
 - [Project 1 Title](http://example.com/)
